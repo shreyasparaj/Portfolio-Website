@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Movie Recommendation App",
+    "desc": "The Movie Recommendation System is an end-to-end Flask-based web app using NLP techniques, offering personalized movie suggestions from a dataset of 4806 films.",
+    "image": "app",
+    "category": "machinelearning",
+    "links": {
+      "view": "https://github.com/hariansh-singh/Movie-Recommendation-System-App.git",
+      "code": "https://github.com/hariansh-singh/Movie-Recommendation-System-App.git"
+    }
+  },
+  {
+    "name": "Email/SMS Spam Detection App",
+    "desc": "An end-to-end app powered by advanced natural language processing. It seamlessly detects and filters spam, ensuring comprehensive communication security.",
+    "image": "spam_app_UI",
+    "category": "machinelearning",
+    "links": {
+      "view": "https://findspamemail.streamlit.app/",
+      "code": "https://github.com/hariansh-singh/Email-Spam-Classifier.git"
+    }
+  },
+  {
+    "name": "Bank Stocks Analysis",
+    "desc": "Explore bank stock prices, emphasizing visualization and pandas skills. Analyze major bank's data using Seaborn, Matplotlib, Plotly, Cufflinks, and Pandas.",
+    "image": "bank_plot",
+    "category": "basic",
+    "links": {
+      "view": "https://nbviewer.org/github/hariansh-singh/eda-bank-stocks-analysis/blob/main/eda_bankstocks.ipynb",
+      "code": "https://github.com/hariansh-singh/eda-bank-stocks-analysis.git"
+    }
+  },
+  {
+    "name": "911 Calls Analysis & Visualization",
+    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
+    "image": "emergency",
+    "category": "basic",
+    "links": {
+      "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
+      "code": "https://github.com/hariansh-singh/911_Calls_Analysis_Visualization.git"
+    }
+  },
+  {
+    "name": "911 Calls Analysis & Visualization",
+    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
+    "image": "emergency",
+    "category": "basic",
+    "links": {
+      "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
+      "code": "https://github.com/hariansh-singh/911_Calls_Analysis_Visualization.git"
+    }
+  },
+  {
+    "name": "911 Calls Analysis & Visualization",
+    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
+    "image": "emergency",
+    "category": "basic",
+    "links": {
+      "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
+      "code": "https://github.com/hariansh-singh/911_Calls_Analysis_Visualization.git"
+    }
+  }
+]
