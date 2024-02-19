@@ -53,7 +53,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Hariansh Singh";
+        document.title = "Experience | Portfolio Shreyas Paraj";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
     else {
