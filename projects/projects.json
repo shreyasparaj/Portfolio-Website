@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "Email/SMS Spam Detection App",
-    "desc": "An end-to-end app powered by advanced natural language processing. It seamlessly detects and filters spam, ensuring comprehensive communication security.",
-    "image": "spam_app_UI",
+    "name": "Gemini App To Retrieve SQL Data",
+    "desc": "a GENAI model with Google Gemini for efficient healthcare data retrieval using SQL queries. Enables real-time updates for informed decision-making and improved patient care.",
+    "image": "gemini",
     "category": "machinelearning",
     "links": {
-      "view": "https://findspamemail.streamlit.app/",
-      "code": "https://github.com/hariansh-singh/Email-Spam-Classifier.git"
+      "view": "https://shreyas-text-to-sql.streamlit.app/",
+      "code": "https://github.com/shreyasparaj/Text-To-Sql-Google_Gemini"
     }
   },
   {

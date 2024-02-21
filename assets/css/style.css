@@ -938,6 +938,7 @@ header .navbar ul li a:hover {
 .contact {
   background: #e5ecfb;
   min-height: 60vh;
+  margin-left: 13rem
 }
 .contact .container {
   max-width: 1050px;
