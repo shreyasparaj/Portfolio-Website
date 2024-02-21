@@ -11,8 +11,8 @@
   },
   {
     "name": "Gemini App To Retrieve SQL Data",
-    "desc": "a GENAI model with Google Gemini for efficient healthcare data retrieval using SQL queries. Enables real-time updates for informed decision-making and improved patient care.",
-    "image": "gemini",
+    "desc": "a GENAI model with Google Gemini for efficient healthcare data retrieval using SQL queries.",
+    "image": "gemini1",
     "category": "machinelearning",
     "links": {
       "view": "https://shreyas-text-to-sql.streamlit.app/",
@@ -20,13 +20,23 @@
     }
   },
   {
-    "name": "Bank Stocks Analysis",
-    "desc": "Explore bank stock prices, emphasizing visualization and pandas skills. Analyze major bank's data using Seaborn, Matplotlib, Plotly, Cufflinks, and Pandas.",
-    "image": "bank_plot",
-    "category": "basic",
+    "name": "Twitter Sentiment Analysis Using NLTK",
+    "desc": "A sentiment analysis model leveraging machine learning for Twitter data, enhancing understanding of user sentiments.",
+    "image": "",
+    "category": "machinelearning",
     "links": {
-      "view": "https://nbviewer.org/github/hariansh-singh/eda-bank-stocks-analysis/blob/main/eda_bankstocks.ipynb",
-      "code": "https://github.com/hariansh-singh/eda-bank-stocks-analysis.git"
+      "view": "https://colab.research.google.com/github/shreyasparaj/Twitter-Sentiment-Analysis/blob/main/TwitterSentimentAnalysis.ipynb",
+      "code": "https://github.com/shreyasparaj/Twitter-Sentiment-Analysis/blob/main/TwitterSentimentAnalysis.ipynb"
+    }
+  },
+  {
+    "name": "Prediction for Credit card Approval",
+    "desc": "Credit Card Approval Prediction project employs streamlined exploratory analysis and data preprocessing, ensuring accurate model evaluation for approval predictions.",
+    "image": "credit1",
+    "category": "machinelearning",
+    "links": {
+      "view": "https://www.kaggle.com/code/shreyasparaj1/prediction-for-credit-card-approval",
+      "code": ""
     }
   },
   {
@@ -36,17 +46,7 @@
     "category": "basic",
     "links": {
       "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
-      "code": "https://github.com/hariansh-singh/911_Calls_Analysis_Visualization.git"
-    }
-  },
-  {
-    "name": "911 Calls Analysis & Visualization",
-    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
-    "image": "emergency",
-    "category": "basic",
-    "links": {
-      "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
-      "code": "https://github.com/hariansh-singh/911_Calls_Analysis_Visualization.git"
+      "code": ""
     }
   },
   {
