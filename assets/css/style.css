@@ -653,7 +653,7 @@ header .navbar ul li a:hover {
   padding: 1rem;
 }
 .work .heading span {
-  color: rgb(255, 230, 0);
+  color: rgb(255, 230, 0); 
 }
 .work .box-container {
   display: flex;
@@ -695,7 +695,7 @@ header .navbar ul li a:hover {
   background: #ffd900;
 }
 .work .box-container .box .content .tag h3 {
-  font-size: 2rem;
+  font-size: 1.85rem;
 }
 .work .box-container .box:hover .content {
   top: 25%;
