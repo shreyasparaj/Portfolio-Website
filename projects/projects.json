@@ -40,19 +40,9 @@
     }
   },
   {
-    "name": "911 Calls Analysis & Visualization",
-    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
-    "image": "emergency",
-    "category": "basic",
-    "links": {
-      "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
-      "code": ""
-    }
-  },
-  {
-    "name": "911 Calls Analysis & Visualization",
-    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
-    "image": "emergency",
+    "name": "----->>ADDING SOON---->>",
+    "desc": "",
+    "image": "soon",
     "category": "basic",
     "links": {
       "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
@@ -60,9 +50,9 @@
     }
   },
   {
-    "name": "911 Calls Analysis & Visualization",
-    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
-    "image": "emergency",
+    "name": "----->>ADDING SOON---->>",
+    "desc": "",
+    "image": "soon",
     "category": "basic",
     "links": {
       "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
@@ -70,18 +60,9 @@
     }
   },
   {
-    "name": "911 Calls Analysis & Visualization",
-    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
-    "image": "emergency",
-    "category": "basic",
-    "links": {
-      "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
-      "code": "https://github.com/hariansh-singh/911_Calls_Analysis_Visualization.git"
-    }
-  },  {
-    "name": "911 Calls Analysis & Visualization",
-    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
-    "image": "emergency",
+    "name": "----->>ADDING SOON---->>",
+    "desc": "",
+    "image": "soon",
     "category": "basic",
     "links": {
       "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
@@ -89,9 +70,29 @@
     }
   },
   {
-    "name": "911 Calls Analysis & Visualization",
-    "desc": "Explore and visualize the 911 dataset. It contains emergency call details and location coordinates, enabling statistical analysis and interactive maps.",
-    "image": "emergency",
+    "name": "----->>ADDING SOON---->>",
+    "desc": "",
+    "image": "soon",
+    "category": "basic",
+    "links": {
+      "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
+      "code": "https://github.com/hariansh-singh/911_Calls_Analysis_Visualization.git"
+    }
+  },
+  {
+    "name": "----->>ADDING SOON---->>",
+    "desc": "",
+    "image": "soon",
+    "category": "basic",
+    "links": {
+      "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
+      "code": "https://github.com/hariansh-singh/911_Calls_Analysis_Visualization.git"
+    }
+  },
+  {
+    "name": "----->>ADDING SOON---->>",
+    "desc": "",
+    "image": "soon",
     "category": "basic",
     "links": {
       "view": "https://nbviewer.org/github/hariansh-singh/911_Calls_Analysis_Visualization/blob/main/911_calls.ipynb",
