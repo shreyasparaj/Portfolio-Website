@@ -22,7 +22,7 @@
   {
     "name": "Twitter Sentiment Analysis Using NLTK",
     "desc": "A sentiment analysis model leveraging machine learning for Twitter data, enhancing understanding of user sentiments.",
-    "image": "",
+    "image": "twitter1",
     "category": "machinelearning",
     "links": {
       "view": "https://colab.research.google.com/github/shreyasparaj/Twitter-Sentiment-Analysis/blob/main/TwitterSentimentAnalysis.ipynb",
