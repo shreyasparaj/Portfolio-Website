@@ -1,14 +1,14 @@
 [
     {
-        "name": "Machine_Learning",
+        "name": "MachineLearning",
         "icon": "https://img.icons8.com/pulsar-color/48/000000/artificial-intelligence.png"
     },
     {
-        "name": "Deep_Learning",
+        "name": "DeepLearning",
         "icon": "https://img.icons8.com/external-becris-lineal-color-becris/48/000000/external-deep-learning-artificial-intelligence-becris-lineal-color-becris.png"
     },
     {
-        "name": "Computer_Vision",
+        "name": "ComputerVision",
         "icon": "https://img.icons8.com/color/48/opencv.png"
     },
     {
@@ -42,18 +42,33 @@
         "name": "Power_BI",
         "icon": "https://img.icons8.com/color/48/power-bi.png"
     },
+    
+    {
+        "name": "Keras",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/48px-Keras_logo.svg.png"
+    },   
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+    },
+    {
+        "name": "Pytorch",
+        "icon": "https://img.icons8.com/fluency/48/pytorch.png"
+    },   
 
     {
-        "name": "Flask",
-        "icon": "https://img.icons8.com/nolan/50/flask.png"
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/color/48/opencv.png"
     },
-    {
-        "name": "Streamlit",
-        "icon": "https://img.icons8.com/stencil/48/deployment.png"
-    },
+
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png"
     },
     {
         "name": "Git VCS",
@@ -63,10 +78,12 @@
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
+    
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },   
+        "name": "Flask",
+        "icon": "https://img.icons8.com/nolan/50/flask.png"
+    },
+    
     {
         "name": "Docker",
         "icon": "https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Docker-Logo-social-media-those-icons-flat-those-icons.png"
@@ -80,23 +97,14 @@
         "icon": "https://img.icons8.com/color/48/jenkins.png"
     },
     {
-        "name": "OpenCV",
-        "icon": "https://img.icons8.com/color/48/opencv.png"
+        "name": "scikit-learn",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/86px-Scikit_learn_logo_small.svg.png"
     },
+
     {
-        "name": "TensorFlow",
-        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
-    },
-    {
-        "name": "Linux",
-        "icon": "https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-Linux-logos-and-brands-those-icons-flat-those-icons.png"
-    },
-    {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/nolan/48/amazon-web-services.png"
-    },
-    {
-        "name": "Django",
-        "icon": "https://img.icons8.com/color/48/000000/django.png"
+        "name": "Spark",
+        "icon": "https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fapache_spark%2Fapache_spark-icon.svg&width=48&height=48"
     }
+
+    
 ]
